@@ -1,0 +1,109 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Log4j Distribution
+
+
+From: 'an unknown organization'
+  - ParaNamer Core (http://paranamer.codehaus.org/paranamer) com.thoughtworks.paranamer:paranamer:jar:2.3
+    License: BSD  (LICENSE.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Flume NG SDK (http://www.apache.org/flume-parent/flume-ng-sdk/) org.apache.flume:flume-ng-sdk:jar:1.2.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j API (http://logging.apache.org/log4j/2.x/log4j-api/) org.apache.logging.log4j:log4j-api:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j API (http://logging.apache.org/log4j/2.x/log4j-api/) org.apache.logging.log4j:log4j-api:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j API (http://logging.apache.org/log4j/2.x/log4j-api/) org.apache.logging.log4j:log4j-api:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4J Core (http://logging.apache.org/log4j/2.x/log4j-core/) org.apache.logging.log4j:log4j-core:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4J Core (http://logging.apache.org/log4j/2.x/log4j-core/) org.apache.logging.log4j:log4j-core:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4J Core (http://logging.apache.org/log4j/2.x/log4j-core/) org.apache.logging.log4j:log4j-core:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4J Core (http://logging.apache.org/log4j/2.x/log4j-core/) org.apache.logging.log4j:log4j-core:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j 1.x Compatibility API (http://logging.apache.org/log4j/2.x/log4j-1.2-api/) org.apache.logging.log4j.adapters:log4j-1.2-api:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j 1.x Compatibility API (http://logging.apache.org/log4j/2.x/log4j-1.2-api/) org.apache.logging.log4j.adapters:log4j-1.2-api:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j 1.x Compatibility API (http://logging.apache.org/log4j/2.x/log4j-1.2-api/) org.apache.logging.log4j.adapters:log4j-1.2-api:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Flume NG Bridge (http://logging.apache.org/log4j/2.x/log4j-flume-ng/) org.apache.logging.log4j.adapters:log4j-flume-ng:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Flume NG Bridge (http://logging.apache.org/log4j/2.x/log4j-flume-ng/) org.apache.logging.log4j.adapters:log4j-flume-ng:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Flume NG Bridge (http://logging.apache.org/log4j/2.x/log4j-flume-ng/) org.apache.logging.log4j.adapters:log4j-flume-ng:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Commons Logging Bridge (http://logging.apache.org/log4j/2.x/log4j-jcl/) org.apache.logging.log4j.adapters:log4j-jcl:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Commons Logging Bridge (http://logging.apache.org/log4j/2.x/log4j-jcl/) org.apache.logging.log4j.adapters:log4j-jcl:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j Commons Logging Bridge (http://logging.apache.org/log4j/2.x/log4j-jcl/) org.apache.logging.log4j.adapters:log4j-jcl:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j SLF4J Binding (http://logging.apache.org/log4j/2.x/log4j-slf4j-impl/) org.apache.logging.log4j.adapters:log4j-slf4j-impl:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j SLF4J Binding (http://logging.apache.org/log4j/2.x/log4j-slf4j-impl/) org.apache.logging.log4j.adapters:log4j-slf4j-impl:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j SLF4J Binding (http://logging.apache.org/log4j/2.x/log4j-slf4j-impl/) org.apache.logging.log4j.adapters:log4j-slf4j-impl:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j to SLF4J Adapter (http://logging.apache.org/log4j/2.x/log4j-to-slf4j/) org.apache.logging.log4j.adapters:log4j-to-slf4j:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j to SLF4J Adapter (http://logging.apache.org/log4j/2.x/log4j-to-slf4j/) org.apache.logging.log4j.adapters:log4j-to-slf4j:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Log4j to SLF4J Adapter (http://logging.apache.org/log4j/2.x/log4j-to-slf4j/) org.apache.logging.log4j.adapters:log4j-to-slf4j:jar:2.0-beta4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'FasterXML' (http://fasterxml.com)
+  - Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-core-asl:jar:1.9.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Data Mapper for Jackson (http://jackson.codehaus.org) org.codehaus.jackson:jackson-mapper-asl:jar:1.9.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'JBoss, a division of Red Hat, Inc.' (http://www.jboss.org)
+  - The Netty Project (http://www.jboss.org/netty/) org.jboss.netty:netty:bundle:3.2.7.Final
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'Mort Bay Consulting' (http://www.mortbay.com)
+  - Jetty Server (http://www.eclipse.org/jetty/jetty-parent/project/modules/jetty) org.mortbay.jetty:jetty:jar:6.1.26
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty Utilities (http://www.eclipse.org/jetty/jetty-parent/project/jetty-util) org.mortbay.jetty:jetty-util:jar:6.1.26
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Servlet Specification API (http://www.eclipse.org/jetty/jetty-parent/servlet-api) org.mortbay.jetty:servlet-api:jar:2.5-20110124
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - Compiler assisted localization library (CAL10N) -    API (http://cal10n.qos.ch/cal10n-api) ch.qos.cal10n:cal10n-api:jar:0.7.4
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.2
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J Extensions Module (http://www.slf4j.org) org.slf4j:slf4j-ext:jar:1.7.2
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons Collections (http://commons.apache.org/collections/) commons-collections:commons-collections:jar:3.2.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Lang (http://commons.apache.org/lang/) commons-lang:commons-lang:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Logging (http://commons.apache.org/logging) commons-logging:commons-logging:jar:1.1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Avro (http://avro.apache.org) org.apache.avro:avro:jar:1.6.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Avro IPC (http://avro.apache.org) org.apache.avro:avro-ipc:jar:1.6.3
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Velocity (http://velocity.apache.org/engine/devel/) org.apache.velocity:velocity:jar:1.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'xerial.org' (http://www.xerial.org/)
+  - Snappy for Java (http://code.google.com/p/snappy-java/) org.xerial.snappy:snappy-java:bundle:1.0.4.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/apache-jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="lib/avro-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/avro-ipc-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.google.collect_0.8.0.v201102150722.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.codehaus.jackson.mapper-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/ehcache-dependency-slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/flume-ng-configuration-1.1.0-cdh4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/flume-ng-core-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/flume-ng-node-1.1.0-cdh4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/flume-ng-sdk-1.1.0-cdh4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax_mail.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-0.9.27.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-0.9.27-tests.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-0.9.6.jar"/>
+	<classpathentry kind="lib" path="lib/mockejb.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.osgi.core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.context.jar"/>
+	<classpathentry kind="lib" path="lib/org.springframework.web.servlet-3.0.0.M3.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-ext.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.0-beta2.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
